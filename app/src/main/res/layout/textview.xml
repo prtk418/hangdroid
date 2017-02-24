@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:textAppearance="?android:attr/textAppearanceMedium"
+ android:text="_"
+ android:id="@+id/textView3"
+ android:layout_alignBottom="@+id/layoutLetters"
+ android:layout_alignLeft="@+id/layoutAddLetter"
+ android:layout_alignStart="@+id/layoutAddLetter"
+ android:textSize="40dp"
+ android:padding="5dp" />
